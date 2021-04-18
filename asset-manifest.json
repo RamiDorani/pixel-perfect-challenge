@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/pixel-perfect-challenge/static/css/main.8328d9d2.chunk.css",
+    "main.js": "/pixel-perfect-challenge/static/js/main.94eafcf5.chunk.js",
+    "main.js.map": "/pixel-perfect-challenge/static/js/main.94eafcf5.chunk.js.map",
+    "runtime-main.js": "/pixel-perfect-challenge/static/js/runtime-main.96108027.js",
+    "runtime-main.js.map": "/pixel-perfect-challenge/static/js/runtime-main.96108027.js.map",
+    "static/js/2.cc4f202c.chunk.js": "/pixel-perfect-challenge/static/js/2.cc4f202c.chunk.js",
+    "static/js/2.cc4f202c.chunk.js.map": "/pixel-perfect-challenge/static/js/2.cc4f202c.chunk.js.map",
+    "static/js/3.889063f3.chunk.js": "/pixel-perfect-challenge/static/js/3.889063f3.chunk.js",
+    "static/js/3.889063f3.chunk.js.map": "/pixel-perfect-challenge/static/js/3.889063f3.chunk.js.map",
+    "index.html": "/pixel-perfect-challenge/index.html",
+    "static/css/main.8328d9d2.chunk.css.map": "/pixel-perfect-challenge/static/css/main.8328d9d2.chunk.css.map",
+    "static/js/2.cc4f202c.chunk.js.LICENSE.txt": "/pixel-perfect-challenge/static/js/2.cc4f202c.chunk.js.LICENSE.txt",
+    "static/media/Bitmapd.png": "/pixel-perfect-challenge/static/media/Bitmapd.10c6426b.png",
+    "static/media/global.scss": "/pixel-perfect-challenge/static/media/Spartan-SemiBold.88d40279.ttf",
+    "static/media/enjoyable-place-desktop.jpg": "/pixel-perfect-challenge/static/media/enjoyable-place-desktop.06399aa5.jpg",
+    "static/media/family-gathering-desktop2.png": "/pixel-perfect-challenge/static/media/family-gathering-desktop2.8c18f3bf.png",
+    "static/media/hero-bg-desktop.jpg": "/pixel-perfect-challenge/static/media/hero-bg-desktop.b1340563.jpg",
+    "static/media/icon-minus.svg": "/pixel-perfect-challenge/static/media/icon-minus.a1f316e7.svg",
+    "static/media/icon-plus.svg": "/pixel-perfect-challenge/static/media/icon-plus.0c864b70.svg",
+    "static/media/locally-sourced-desktop.jpg": "/pixel-perfect-challenge/static/media/locally-sourced-desktop.957d3e79.jpg",
+    "static/media/menu-item1.jpg": "/pixel-perfect-challenge/static/media/menu-item1.7bd94a87.jpg",
+    "static/media/menu-item2.jpg": "/pixel-perfect-challenge/static/media/menu-item2.81249e77.jpg",
+    "static/media/menu-item3.jpg": "/pixel-perfect-challenge/static/media/menu-item3.22eddbf1.jpg",
+    "static/media/pattern-curve-bottom-right.svg": "/pixel-perfect-challenge/static/media/pattern-curve-bottom-right.32e2d12d.svg",
+    "static/media/pattern-curve-top-left.svg": "/pixel-perfect-challenge/static/media/pattern-curve-top-left.77f903fb.svg",
+    "static/media/pattern-curve-top-right.svg": "/pixel-perfect-challenge/static/media/pattern-curve-top-right.df37c69d.svg",
+    "static/media/pattern-divide.svg": "/pixel-perfect-challenge/static/media/pattern-divide.bf6d0c5c.svg",
+    "static/media/pattern-lines.svg": "/pixel-perfect-challenge/static/media/pattern-lines.df381b88.svg",
+    "static/media/ready-bg-desktop.jpg": "/pixel-perfect-challenge/static/media/ready-bg-desktop.7404dbad.jpg",
+    "static/media/social-events.jpg": "/pixel-perfect-challenge/static/media/social-events.1a0444ac.jpg",
+    "static/media/special-events.jpg": "/pixel-perfect-challenge/static/media/special-events.21b785e3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96108027.js",
+    "static/js/2.cc4f202c.chunk.js",
+    "static/css/main.8328d9d2.chunk.css",
+    "static/js/main.94eafcf5.chunk.js"
+  ]
+}
