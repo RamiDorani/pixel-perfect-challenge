@@ -1,0 +1,32 @@
+.footer-container {
+    background-color: #000000;
+    color: #ffff;
+    height: rem(240px);
+}
+
+.footer {
+    position: relative;
+    top: 33%;
+    right: rem(27px);
+}
+
+
+.footer-dine {
+    font-size: rem(68px);
+    font-family: spartan-semiBold;
+}
+
+.group2, .group3 {
+    position: absolute;
+    font-family: spartan-light;
+    font-size: rem(14px);
+    line-height: rem(28px);
+    letter-spacing: rem(2px);
+    left: rem(372.5px);
+}
+
+
+.group3 {
+    left: rem(736.5px);
+    width: rem(446px);
+}

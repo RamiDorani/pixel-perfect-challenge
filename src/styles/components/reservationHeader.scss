@@ -1,0 +1,49 @@
+.reservationHeader-container {
+    background-color: #111;
+    max-height: rem(595px);
+    position: relative;
+    color: #fff;
+}
+
+.reservation-img {
+    position: relative;
+    max-width: 1460px;
+    bottom: 380px;
+    right: rem(160px);
+}
+
+
+
+.reservationHeader-box1 h2 {
+    position: absolute;
+    top: rem(65px);
+    font-size: rem(48px);
+    font-family: spartan-semiBold;
+}
+
+.reservation-text {
+    position: absolute;
+    top: rem(238px);
+}
+
+
+.reservation-text span {
+    font-family: spartan-light;
+    font-style: light;
+    font-size: rem(64px);
+    line-height: rem(72px);
+    letter-spacing: rem(-0.8px);
+}
+
+
+.reservation-text p {
+    font-family: spartan-light;
+    font-style: light;
+    font-size: rem(18px);
+    line-height: rem(30px);
+    letter-spacing: rem(-0.22px);
+    max-width: rem(445px);
+    max-height: rem(120px);
+    position: relative;
+    top: rem(24px);
+}

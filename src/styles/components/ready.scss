@@ -1,0 +1,43 @@
+.ready-container {
+    position: relative;
+}
+
+
+.ready-box2 {
+    position: absolute;
+    top: rem(92px);
+    left: rem(156px);
+}
+
+.ready-box2 h1 {
+    font-family: spartan-bold;
+    font-size: rem(40px);
+    line-height: rem(56px);
+    letter-spacing: rem(-0.5px);
+    color: #ffffff;
+}
+
+.ready-box2 a {
+    position: absolute;
+    left: rem(950px);
+}
+
+.ready-box2 a button {
+    color: #ffffff;
+    width: rem(245px);
+    height: rem(64px);
+    border: 1px solid #fff;
+    background-color: rgba(0, 128, 0, 0);
+    font-size: rem(14px);
+    font-family: spartan;
+    line-height: rem(16px);
+    letter-spacing: rem(2px);
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.ready-box2 a  :hover {
+    background-color: #9e7f665b;
+}
+
+

@@ -1,0 +1,61 @@
+.most-localy-container {
+    //border: 1px solid blue;
+    position: relative;
+    max-height: 800px;
+    z-index: 1;
+    // top: 121px;
+}
+
+.most-localy-box1 {
+    position: relative;
+    top: 223px;
+}
+
+
+.divide2 {
+    width: 71px;
+    height: 7px;
+}
+
+.most-localy-box1-info {
+    position: relative;
+    top: 48px;
+}
+
+.most-localy-box1 h1 {
+    font-family: spartan-bold;
+    font-size: 40px;
+    width: 445px;
+    height: 112px;
+}
+
+.most-localy-box1 p {
+    font-family: spartan-light;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.most-localy-box2 :nth-child(1) {
+    width: 160px;
+    height: 67px;
+    position: relative;
+    top: 300px;
+    left: 670px;
+    z-index: 1;
+}
+
+.most-localy-box2 :nth-child(2) {
+    max-width: 540px;
+    height: 720px;
+    position: relative;
+    left: 180px;
+}
+
+
+.most-localy-box2 :nth-child(3){
+     position: relative;
+     bottom: 460px;
+     max-width: 888px;
+}
+
+

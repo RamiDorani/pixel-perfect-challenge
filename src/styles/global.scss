@@ -1,0 +1,17 @@
+//SETUPS
+@import "setup/base";
+@import "setup/typography";
+@import "setup/helpers";
+@import "setup/functions";
+
+
+//CMPs
+@import "components/header.scss";
+@import "components/enjoyable.scss";
+@import "components/mostLocaly.scss";
+@import "components/highlights.scss";
+@import "components/activities.scss";
+@import "components/ready.scss";
+@import "components/footer.scss";
+@import "components/reservationHeader.scss";
+@import "components/calander.scss";
