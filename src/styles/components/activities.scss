@@ -62,11 +62,13 @@
     font-family: spartan;
     font-size: 14px;
     cursor: pointer; 
-    transition: 1s;
+    transition: 0.5s;
 }
 
 .book-button:hover {
-    background-color: #17192bce;
+    background-color: #ffffff;
+    color: #000000;
+    border: 0.5px solid #000000 ;
 }
 
 
