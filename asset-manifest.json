@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pixel-perfect-challenge/static/css/main.da1df0a4.chunk.css",
-    "main.js": "/pixel-perfect-challenge/static/js/main.07cf0b6d.chunk.js",
-    "main.js.map": "/pixel-perfect-challenge/static/js/main.07cf0b6d.chunk.js.map",
+    "main.js": "/pixel-perfect-challenge/static/js/main.68fb92b5.chunk.js",
+    "main.js.map": "/pixel-perfect-challenge/static/js/main.68fb92b5.chunk.js.map",
     "runtime-main.js": "/pixel-perfect-challenge/static/js/runtime-main.96108027.js",
     "runtime-main.js.map": "/pixel-perfect-challenge/static/js/runtime-main.96108027.js.map",
     "static/js/2.cc4f202c.chunk.js": "/pixel-perfect-challenge/static/js/2.cc4f202c.chunk.js",
@@ -36,6 +36,6 @@
     "static/js/runtime-main.96108027.js",
     "static/js/2.cc4f202c.chunk.js",
     "static/css/main.da1df0a4.chunk.css",
-    "static/js/main.07cf0b6d.chunk.js"
+    "static/js/main.68fb92b5.chunk.js"
   ]
 }
