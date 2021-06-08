@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pixel-perfect-challenge/static/css/main.b687f47c.chunk.css",
+    "main.css": "/pixel-perfect-challenge/static/css/main.ef3a62a4.chunk.css",
     "main.js": "/pixel-perfect-challenge/static/js/main.1b18132e.chunk.js",
     "main.js.map": "/pixel-perfect-challenge/static/js/main.1b18132e.chunk.js.map",
     "runtime-main.js": "/pixel-perfect-challenge/static/js/runtime-main.96108027.js",
@@ -10,7 +10,7 @@
     "static/js/3.889063f3.chunk.js": "/pixel-perfect-challenge/static/js/3.889063f3.chunk.js",
     "static/js/3.889063f3.chunk.js.map": "/pixel-perfect-challenge/static/js/3.889063f3.chunk.js.map",
     "index.html": "/pixel-perfect-challenge/index.html",
-    "static/css/main.b687f47c.chunk.css.map": "/pixel-perfect-challenge/static/css/main.b687f47c.chunk.css.map",
+    "static/css/main.ef3a62a4.chunk.css.map": "/pixel-perfect-challenge/static/css/main.ef3a62a4.chunk.css.map",
     "static/js/2.cc4f202c.chunk.js.LICENSE.txt": "/pixel-perfect-challenge/static/js/2.cc4f202c.chunk.js.LICENSE.txt",
     "static/media/Bitmapd.png": "/pixel-perfect-challenge/static/media/Bitmapd.10c6426b.png",
     "static/media/global.scss": "/pixel-perfect-challenge/static/media/locally-sourced-mobile.b36f6a49.jpg",
@@ -35,7 +35,7 @@
   "entrypoints": [
     "static/js/runtime-main.96108027.js",
     "static/js/2.cc4f202c.chunk.js",
-    "static/css/main.b687f47c.chunk.css",
+    "static/css/main.ef3a62a4.chunk.css",
     "static/js/main.1b18132e.chunk.js"
   ]
 }
