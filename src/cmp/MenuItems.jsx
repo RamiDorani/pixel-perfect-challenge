@@ -3,7 +3,7 @@ import React from 'react';
 export function MenuItems({menuItem}) {
     console.log(menuItem);
     return (
-        <div className="menuItem flex">
+        <div className={`menuItem flex  item${menuItem._id}`}>
             <div className="menuItem-box1 flex">
                 <img src={menuItem.img} alt=""/>
                 <div></div>

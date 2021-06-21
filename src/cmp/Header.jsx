@@ -5,10 +5,10 @@ export function Header() {
 
     return (
         <div className="header-container flex">
-            <div className="header-box1 container">
+            <div className="header-box1 container flex-col">
                 <h2 className="dine-header">dine</h2>
-                <div className="header-info">
-                    <h2 className="dine-header2">Exquisite dining since 1989</h2>
+                <div className="header-info flex-col">
+                    <h2 className="dine-header2">Exquisite dining <span>since 1989</span></h2>
                     <p>Experience our seasonal menu in beautiful country surroundings. Eat the freshest produce from the comfort of our farmhouse.</p>
                     <Link to='/reservation'><button>BOOK A TABLE</button></Link>
                 </div>

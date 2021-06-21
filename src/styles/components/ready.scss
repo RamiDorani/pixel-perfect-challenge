@@ -42,3 +42,32 @@
 }
 
 
+@include for-narrow-layout {
+   
+   
+ }
+ 
+ @include for-mobile-layout {
+     .ready-container {
+        height: rem(328px);
+     }
+
+     .ready-img {
+        content: url('../../assets/imgs/homepage/ready-bg-mobile.jpg');  
+       }
+
+       .ready-box2 {
+           flex-direction: column-reverse;
+           text-align: center;
+           left: 0px;
+
+       }
+  
+       .ready-box2 a {
+        left: 0px;
+        width: 100%;
+        margin: 0 auto;
+        top: rem(136px);
+       }
+ }
+ 

@@ -1,7 +1,7 @@
 {
   "name": "design-challenge",
   "version": "0.1.0",
-  "homepage": "https://RamiDorani.github.io/pixel-perfect-challenge",
+  "homepage": " https://ramidorani.github.io/res-landingPage/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",

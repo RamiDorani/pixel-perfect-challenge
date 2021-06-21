@@ -30,3 +30,49 @@
     left: rem(736.5px);
     width: rem(446px);
 }
+
+@include for-narrow-layout {
+    .footer-container {
+        display: flex;
+        flex-direction: column;
+    }
+   
+    .footer {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+   
+}
+
+
+@include for-mobile-layout {
+    .footer-container {
+        height: rem(440px);
+        text-align: center;
+        padding-left: 14%;
+    }
+    
+    .footer {
+        width: rem(327px);
+        height: rem(280px);
+    }
+
+  .group2, .group3 {
+      width: 100%;
+      left: 0px;
+  }
+
+  .group2 {
+      top: rem(30px);
+  }
+
+  .group3 {
+      top: rem(152px);
+  }
+
+  .footer-dine {
+      position: relative;
+      bottom: rem(170px);  
+  }
+}

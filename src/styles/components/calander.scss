@@ -121,3 +121,57 @@ label {
     color: #000000;
     border: 1px solid #000000;
 }
+
+
+@include for-narrow-layout {
+    .calander-box1 {
+        height: rem(500px);
+    }
+
+   .calander-box1 img {
+       display: none;
+   }
+}
+
+@include for-mobile-layout {
+  .order-form {
+      //border: 1px solid red;
+      width: rem(327px);
+      height: rem(585px);
+      bottom: rem(120px);
+      left: rem(40px);
+  }
+
+  .form-field {
+      width: 263px;
+  }
+
+//   .pick-date {
+//       position: relative;
+//       right: 100px;
+//       border: 1px solid red;
+//       max-width: 500px;
+//   }
+
+
+  .date-field {
+    // max-width: rem(80px) !important;
+    // max-height: rem(45px) !important;
+    // position: relative !important;
+     left: rem(120px) !important;
+}
+
+  .submmit-btn {
+      width: rem(263px);
+  }
+
+  .pick-date, .pick-time {
+      width: 150px;
+      left: -60px;
+  }
+  .people {
+      top: rem(150px);
+      left: rem(30px);
+  }
+   
+}

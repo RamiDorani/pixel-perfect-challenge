@@ -25,23 +25,23 @@ export function Activities() {
         <div className="activity-container container flex">
             <div className="activity-box1">
                 <img src={require('../assets/imgs/patterns/pattern-lines.svg').default} alt="" />
-                <img className="tt" src={activities[activityId - 1].img} alt="" />
+                <img className="img-activity" src={activities[activityId - 1].img} alt="" />
                 <img src={require('../assets/imgs/patterns/pattern-curve-top-right.svg').default} alt="" />
             </div>
             <div className="activity-box2">
                 <div className="activity-preview">
                     <ActivityPreview activity={activities[activityId - 1]} />
                 </div>
-                <ul className="activity-list">
-                    <li className="flex activity-item">
+                <ul className="activity-list flex-col">
+                    <li className="flex activity-item activity-item1">
                         {activityId===1&&<div className="cursor1"></div>}
                         <h5 className={activityId===1?'':'faded'} onClick={() => { onChangeActivityId(1) }}>FAMILY GATHERING</h5>
                     </li>
-                    <li className="flex activity-item">
+                    <li className="flex activity-item activity-item2">
                     {activityId===2&&<div className="cursor2"></div>}
                         <h5 className={activityId===2?'':'faded'} onClick={() => { onChangeActivityId(2) }}>SPECIAL EVENTS</h5>
                     </li>
-                    <li className="flex activity-item">
+                    <li className="flex activity-item activity-item3">
                     {activityId===3&&<div className="cursor3"></div>}
                         <h5 className={activityId===3?'':'faded'} onClick={() => { onChangeActivityId(3) }}>SOCIAL EVENTS</h5>
                     </li>

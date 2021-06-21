@@ -47,3 +47,78 @@
     position: relative;
     top: rem(24px);
 }
+
+
+@include for-narrow-layout {
+
+   
+ }
+ 
+ @include for-mobile-layout {
+     .reservationHeader-container {
+        //  height: 100%;
+        //  max-height: rem(5500px);
+        max-height: rem(600px);
+        height: 1000px;
+         text-align: center;
+         
+     }
+    .reservation-img {
+        content: url('../../assets/imgs/homepage/Bitmap-mobile.jpg');
+        position: relative;
+        top: 0px;
+        width: 94.5vw;
+        right: 0px;
+        height: rem(600px);
+        //border: 1px soilid red;
+         //bottom: 0px;
+        //right: rem(160px);
+    }
+
+    .reservationHeader-box1 {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        //align-self: center;
+    }
+
+    .reservationHeader-box1 h2 {
+        //position: relative;
+        //width: 100%;
+        width: rem(120px);
+        margin: 0 auto;
+        text-align: center;
+        top: 56px;
+        align-self: center;
+        //left: 50%;
+    }
+
+    .reservation-text {
+        //border: 1px solid red;
+        top: rem(140px);
+        display: flex;
+        flex-direction: column;
+        align-self: center;
+        align-content: center;
+        text-align: center;
+    }
+
+    .reservation-text span {
+        font-size: rem(32px);
+        line-height: rem(40px);
+        letter-spacing: rem(-0.4px);
+        align-self: center;
+    }
+    
+    
+    .reservation-text p {
+        font-size: rem(18px);
+        line-height: rem(25px);
+        letter-spacing: rem(-0.19px);
+        top: rem(24px);
+        align-self: center;
+        text-align: center;
+    }
+    
+ }
+ 

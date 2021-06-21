@@ -18,7 +18,7 @@ export function HighLigths() {
     if (!menuItems) return <div>loading</div>
     return (
         <div className="highlight-container1">
-            <div className="highlight-container2 container flex-between">
+            <div className="flex-between highlight-container2 container">
                 <div className="highlight-box1 flex-col">
                     <img src={require('../assets/imgs/patterns/pattern-divide.svg').default} alt="" />
                     <h1>A few highlights from our menu</h1>
